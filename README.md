@@ -52,27 +52,47 @@ Ten scenariusz pokazuje, jak istotna jest minimalizacja punktów zdobywanych prz
 Zdobycie najszybszego okrążenia ma wpływ na końcowe wyniki, szczególnie w kombinacjach, w których McLaren znajduje się w drugiej połowie pierwszej dziesiątki lub nawet poza punktami.
 
 # Najszybsze okrążenie
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ferrari &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nikt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McLaren
-| **Pozycja Ferrari**  | **Pozycja McLarena**| **Pozycja Ferrari** | **Pozycja McLarena**| **Pozycja Ferrari**| **Pozycja McLarena** |
-|----------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| 1 & 2                | 4 & 5               | 1 & 2               | 4 & 5               | 1 & 2               | 4 & 6               |
-| 1 & 3                | 4 & 6               | 1 & 3               | 5 & 6               | 1 & 3               | 5 & 6               |
-| 1 & 4                | 5 & 7               | 1 & 4               | 5 & 7               | 1 & 4               | 6 & 7               |
-| 1 & 5                | 6 & 7               | 1 & 5               | 6 & 7               | 1 & 5               | 6 & 8               |
-| 2 & 3                | 6 & 8               | 1 & 7               | 6 & 9               | 2 & 3               | 7 & 8               |
-| 1 & 7                | 6 & 9               | 2 & 3               | 7 & 8               | 1 & 6               | 7 & 8               |
-| 1 & 6                | 7 & 8               | 1 & 6               | 7 & 8               | 1 & 8               | 7 & 10              |
-| 1 & 8                | 7 & 9               | 1 & 8               | 7 & 9               | 1 & 7               | 8 & 9               |
-| 2 & 4                | 7 & 9               | 2 & 4               | 7 & 9               | 2 & 4               | 8 & 9               |
-| 1 & 9                | 7 & 10              | 2 & 5               | 8 & 9               | 1 & 9               | 8 & 10              |
-| 1 & 10               | 8 & 9               | 1 & 9               | 8 & 10              | 2 & 5               | 8 & 10              |
-| 2 & 5                | 8 & 9               | 3 & 4               | 8 & 10              | 1 & 10              | 8 & 11              |
-| 3 & 4                | 8 & 9               | 1 & 10              | 8 & 11              | 1 & 11              | 9 & 10              |
-| 1 & 11               | 8 & 10              | 1 & 11              | 9 & 10              | 2 & 6               | 9 & 10              |
-| 2 & 6                | 8 & 10              | 2 & 6               | 9 & 10              | 3 & 4               | 9 & 10              |
-| 2 & 7                | 9 & 10              | 3 & 5               | 9 & 10              | 3 & 5               | 9 & 11              |
-| 3 & 5                | 9 & 10              | 2 & 7               | 9 & 11              | 2 & 7               | 10 & 11             |
-| 3 & 6                | 9 & 11              | 3 & 6               | 10 & 11             | 2 & 8               | 11 & 12             |
-| 2 & 8                | 10 & 11             | 2 & 8               | 11 & 12             | 3 & 6               | 11 & 12             |
-| 4 & 5                | 10 & 11             | 4 & 5               | 11 & 12             | 4 & 5               | 11 & 12             |
-| 3 & 7                | 11 & 12             |                     |                     |                     |                     |
+<h2 style="text-align:center;">Najszybsze okrążenie</h2>
+<table style="width:100%; border-collapse:collapse; text-align:center; border: 1px solid black;">
+    <thead>
+        <tr>
+            <th colspan="2" style="border: 1px solid black;">Ferrari</th>
+            <th colspan="2" style="border: 1px solid black;">Nikt</th>
+            <th colspan="2" style="border: 1px solid black;">McLaren</th>
+        </tr>
+        <tr>
+            <th style="border: 1px solid black;">Pozycja Ferrari</th>
+            <th style="border: 1px solid black;">Pozycja McLarena</th>
+            <th style="border: 1px solid black;">Pozycja Ferrari</th>
+            <th style="border: 1px solid black;">Pozycja McLarena</th>
+            <th style="border: 1px solid black;">Pozycja Ferrari</th>
+            <th style="border: 1px solid black;">Pozycja McLarena</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>1 & 2</td><td>4 & 5</td><td>1 & 2</td><td>4 & 5</td><td>1 & 2</td><td>4 & 6</td></tr>
+        <tr><td>1 & 3</td><td>4 & 6</td><td>1 & 3</td><td>5 & 6</td><td>1 & 3</td><td>5 & 6</td></tr>
+        <tr><td>1 & 4</td><td>5 & 7</td><td>1 & 4</td><td>5 & 7</td><td>1 & 4</td><td>6 & 7</td></tr>
+        <tr><td>1 & 5</td><td>6 & 7</td><td>1 & 5</td><td>6 & 7</td><td>1 & 5</td><td>6 & 8</td></tr>
+        <tr><td>2 & 3</td><td>6 & 8</td><td>1 & 7</td><td>6 & 9</td><td>2 & 3</td><td>7 & 8</td></tr>
+        <tr><td>1 & 7</td><td>6 & 9</td><td>2 & 3</td><td>7 & 8</td><td>1 & 6</td><td>7 & 8</td></tr>
+        <tr><td>1 & 6</td><td>7 & 8</td><td>1 & 6</td><td>7 & 8</td><td>1 & 8</td><td>7 & 10</td></tr>
+        <tr><td>1 & 8</td><td>7 & 9</td><td>1 & 8</td><td>7 & 9</td><td>1 & 7</td><td>8 & 9</td></tr>
+        <tr><td>2 & 4</td><td>7 & 9</td><td>2 & 4</td><td>7 & 9</td><td>2 & 4</td><td>8 & 9</td></tr>
+        <tr><td>1 & 9</td><td>7 & 10</td><td>2 & 5</td><td>8 & 9</td><td>1 & 9</td><td>8 & 10</td></tr>
+        <tr><td>1 & 10</td><td>8 & 9</td><td>1 & 9</td><td>8 & 10</td><td>2 & 5</td><td>8 & 10</td></tr>
+        <tr><td>2 & 5</td><td>8 & 9</td><td>3 & 4</td><td>8 & 10</td><td>1 & 10</td><td>8 & 11</td></tr>
+        <tr><td>3 & 4</td><td>8 & 9</td><td>1 & 10</td><td>8 & 11</td><td>1 & 11</td><td>9 & 10</td></tr>
+        <tr><td>1 & 11</td><td>8 & 10</td><td>1 & 11</td><td>9 & 10</td><td>2 & 6</td><td>9 & 10</td></tr>
+        <tr><td>2 & 6</td><td>8 & 10</td><td>2 & 6</td><td>9 & 10</td><td>3 & 4</td><td>9 & 10</td></tr>
+        <tr><td>2 & 7</td><td>9 & 10</td><td>3 & 5</td><td>9 & 10</td><td>3 & 5</td><td>9 & 11</td></tr>
+        <tr><td>3 & 5</td><td>9 & 10</td><td>2 & 7</td><td>9 & 11</td><td>2 & 7</td><td>10 & 11</td></tr>
+        <tr><td>3 & 6</td><td>9 & 11</td><td>3 & 6</td><td>10 & 11</td><td>2 & 8</td><td>11 & 12</td></tr>
+        <tr><td>2 & 8</td><td>10 & 11</td><td>2 & 8</td><td>11 & 12</td><td>3 & 6</td><td>11 & 12</td></tr>
+        <tr><td>4 & 5</td><td>10 & 11</td><td>4 & 5</td><td>11 & 12</td><td>4 & 5</td><td>11 & 12</td></tr>
+        <tr><td>3 & 7</td><td>11 & 12</td><td></td><td></td><td></td><td></td></tr>
+    </tbody>
+</table>
+
+
+
