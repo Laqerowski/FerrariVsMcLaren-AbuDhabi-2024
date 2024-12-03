@@ -52,7 +52,6 @@ Ten scenariusz pokazuje, jak istotna jest minimalizacja punktów zdobywanych prz
 Zdobycie najszybszego okrążenia ma wpływ na końcowe wyniki, szczególnie w kombinacjach, w których McLaren znajduje się w drugiej połowie pierwszej dziesiątki lub nawet poza punktami.
 
 # Najszybsze okrążenie
-<h2 style="text-align:center;">Najszybsze okrążenie</h2>
 <table style="width:100%; border-collapse:collapse; text-align:center; border: 1px solid black;">
     <thead>
         <tr>
