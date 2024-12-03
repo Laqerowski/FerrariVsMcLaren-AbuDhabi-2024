@@ -10,7 +10,7 @@ Znajduje się w nim kod, który:
 
 Projekt ten wykorzystuje biblioteki:
 - **Pandas**: do przetwarzania danych i generowania tabel.
-- **itertools**: do tworzenia kombinacji i permutacji miejsc.
+- **Itertools**: do tworzenia kombinacji i permutacji miejsc.
 
 Kod analizuje trzy główne scenariusze:
 1. Żadna ekipa nie zdobywa punktu za najszybsze okrążenie.
