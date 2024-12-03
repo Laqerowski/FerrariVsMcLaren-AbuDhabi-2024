@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-Projekt ten jest predykcją możliwych miejsc, które dają mistrzostwo konstruktorów Ferrari w walce przeciwko McLarenowi w najbliższym wyścigu odbywającym się w Abu Zabi.  
+Projekt ten jest predykcją możliwych miejsc, które dają mistrzostwo konstruktorów Ferrari w walce przeciwko McLarenowi w najbliższym wyścigu odbywającym się w Abu Dhabi.  
 Znajduje się w nim kod, który:
 - Generuje miejsca na mecie wyścigu.
 - Sprawdza wyniki pod kątem spełnienia warunków mistrzostwa.
