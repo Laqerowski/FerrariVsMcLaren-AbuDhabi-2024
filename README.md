@@ -27,19 +27,16 @@ McLaren może znaleźć się na podium w tym wyścigu. Ferrari jednak musi zdoby
 - McLaren (2 & 10): McLaren nie może zdobyć najszybszego okrążenia, aby Ferrari utrzymało przewagę.
 - McLaren (2 & 11): Ferrari utrzyma przewagę nawet wtedy, gdy McLaren zdobędzie najszybsze okrążenie.
 
----
 
 ### 2. Najlepszy scenariusz dla Ferrari
 Najbardziej optymistyczny scenariusz dla Ferrari to:
 - Ferrari zdobywa dublet, a McLaren pozostaje poza podium i nie zdobywa najszybszego okrążenia.
 - W przypadku, gdy McLaren zdobywa najszybsze okrążenie, dalszy bolid McLarena musi znaleźć się o jedną pozycję niżej, aby Ferrari utrzymało przewagę punktową.
 
----
 
 ### 3. Tylko jedno trofeum
 Ferrari nadal może zdobyć tytuł mistrzowski, nawet jeśli nie znajdzie się na podium. Musi jednak liczyć na sytuację, w której oba bolidy McLarena znajdą się poza punktami. Jeśli jeden z bolidów McLarena zajmie 10. miejsce, Ferrari musi zdobyć najszybsze okrążenie, aby zachować przewagę punktową.
 
----
 
 ### 4. Wygrana przy jednym bolidzie Ferrari na mecie
 Ferrari może zdobyć tytuł mistrza konstruktorów nawet wtedy, gdy tylko jeden ich bolid ukończy wyścig. Warunki, które muszą być spełnione:
@@ -48,7 +45,6 @@ Ferrari może zdobyć tytuł mistrza konstruktorów nawet wtedy, gdy tylko jeden
 
 Ten scenariusz pokazuje, jak istotna jest minimalizacja punktów zdobywanych przez McLarena.
 
----
 
 ### 5. Znaczenie najszybszego okrążenia
 
