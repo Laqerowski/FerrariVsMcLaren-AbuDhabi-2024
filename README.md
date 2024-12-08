@@ -21,24 +21,27 @@ Kod analizuje trzy główne scenariusze:
 
 ## Raport
 
-### 1. McLaren na podium – to nie problem
+### 1. Bez złota
+McLaren nie może wygrać w tym wyścigu. Nie ma żadnej kombinacji dającej mistrzostwo Ferrari, w której McLaren wygrywa wyścig.
+
+### 2. McLaren na podium – to nie problem
 McLaren może znaleźć się na podium w tym wyścigu. Ferrari jednak musi zdobyć dublet, inaczej będzie musiało liczyć na jeden z trzech scenariuszy:
 - McLaren (2 & 9): Ferrari musi zdobyć najszybsze okrążenie, aby pozostać na prowadzeniu.
 - McLaren (2 & 10): McLaren nie może zdobyć najszybszego okrążenia, aby Ferrari utrzymało przewagę.
 - McLaren (2 & 11): Ferrari utrzyma przewagę nawet wtedy, gdy McLaren zdobędzie najszybsze okrążenie.
 
 
-### 2. Najlepszy scenariusz dla Ferrari
+### 3. Najlepszy scenariusz dla Ferrari
 Najbardziej optymistyczny scenariusz dla Ferrari to:
 - Ferrari zdobywa dublet, a McLaren pozostaje poza podium i nie zdobywa najszybszego okrążenia.
 - W przypadku, gdy McLaren zdobywa najszybsze okrążenie, dalszy bolid McLarena musi znaleźć się o jedną pozycję niżej, aby Ferrari utrzymało przewagę punktową.
 
 
-### 3. Tylko jedno trofeum
+### 4. Tylko jedno trofeum
 Ferrari nadal może zdobyć tytuł mistrzowski, nawet jeśli nie znajdzie się na podium. Musi jednak liczyć na sytuację, w której oba bolidy McLarena znajdą się poza punktami. Jeśli jeden z bolidów McLarena zajmie 10. miejsce, Ferrari musi zdobyć najszybsze okrążenie, aby zachować przewagę punktową.
 
 
-### 4. Wygrana przy jednym bolidzie Ferrari na mecie
+### 5. Wygrana przy jednym bolidzie Ferrari na mecie
 Ferrari może zdobyć tytuł mistrza konstruktorów nawet wtedy, gdy tylko jeden ich bolid ukończy wyścig. Warunki, które muszą być spełnione:
 - Ferrari musi wygrać wyścig.
 - McLaren nie może zająć wyższej pozycji niż 9. miejsce, jeśli Ferrari nie zdobędzie najszybszego okrążenia.
@@ -46,7 +49,7 @@ Ferrari może zdobyć tytuł mistrza konstruktorów nawet wtedy, gdy tylko jeden
 Ten scenariusz pokazuje, jak istotna jest minimalizacja punktów zdobywanych przez McLarena.
 
 
-### 5. Znaczenie najszybszego okrążenia
+### 6. Znaczenie najszybszego okrążenia
 
 #### Zdobycie najszybszego okrążenia przez Ferrari:
 - Dodaje dodatkową kombinację miejsc, która pozwala zespołowi na zwycięstwo w klasyfikacji konstruktorów.
